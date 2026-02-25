@@ -12,7 +12,7 @@ A modern, responsive, and feature-rich calculator built using HTML, CSS, and Jav
 
 ## 🚀 Live Deployment
 
-🔗 https://weather-ql0v3lc0m-karansinh1818s-projects.vercel.app/
+🔗 https://smart-calculator-km-18.netlify.app/
 ---
 
 
